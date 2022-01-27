@@ -121,6 +121,7 @@ class Album(Resource):
     contributors: list[Artist]
 
     artist: Artist
+    tracks: list[Track]
 
     _parse_release_date = staticmethod(parse_date)
 
@@ -397,6 +398,7 @@ class Playlist(Resource):
     picture_xl: str
     checksum: str
     creator: User
+    tracks: list[Track]
 
     def get_tracks(self, **kwargs) -> PaginatedList[Track]:
         """
