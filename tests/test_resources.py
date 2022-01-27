@@ -173,6 +173,14 @@ class TestGenre:
         assert isinstance(radio, deezer.resources.Radio)
         assert repr(radio) == "<Radio: Electro Swing>"
 
+    def test_get_podcasts(self, client):
+        technology = client.get_genre(232)
+        podcasts = technology.get_podcasts()
+        assert isinstance(podcasts, deezer.pagination.PaginatedList)
+        podcast = podcasts[0]
+        assert isinstance(podcast, deezer.resources.Podcast)
+        assert repr(podcast) == "<Podcast: Le rendez-vous Tech>"
+
 
 class TestChart:
     @pytest.fixture()
