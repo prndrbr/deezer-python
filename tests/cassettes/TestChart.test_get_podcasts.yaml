@@ -1,0 +1,92 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - identity
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: https://api.deezer.com/chart/0/podcasts
+  response:
+    body:
+      string: '{"data":[{"id":58021,"title":"Les Grosses T\u00eates","description":"Du
+        lundi au vendredi de 15h30 \u00e0 18h, retrouvez Laurent Ruquier, chef d''orchestre
+        de l''\u00e9mission. Entour\u00e9 de ses fid\u00e8les Grosses T\u00eates,
+        il imprime sa marque \u00e0 ce programme culte de la radio tout en restant
+        fid\u00e8le \u00e0 ses fondamentaux.","available":true,"fans":25049,"link":"https:\/\/www.deezer.com\/show\/58021","share":"https:\/\/www.deezer.com\/show\/58021?utm_source=deezer&utm_content=show-58021&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/610ee80af98678bfbc7b0edacc30971a\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/610ee80af98678bfbc7b0edacc30971a\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/610ee80af98678bfbc7b0edacc30971a\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/610ee80af98678bfbc7b0edacc30971a\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/610ee80af98678bfbc7b0edacc30971a\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":61092,"title":"Hondelatte
+        raconte - Christophe Hondelatte","description":"Conteur hors pair, Christophe
+        Hondelatte tient les auditeurs en haleine avec ses r\u00e9cits cisel\u00e9s
+        et captivants. Faits divers, parcours singuliers et portraits de personnalit\u00e9s...
+        Il remet en perspective et raconte les histoires qui ont fascin\u00e9 les
+        Fran\u00e7ais avant de les diss\u00e9quer en compagnie de ses invit\u00e9s.","available":true,"fans":28595,"link":"https:\/\/www.deezer.com\/show\/61092","share":"https:\/\/www.deezer.com\/show\/61092?utm_source=deezer&utm_content=show-61092&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/69c5d070abb76676e5b62284ce9895c0\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/69c5d070abb76676e5b62284ce9895c0\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/69c5d070abb76676e5b62284ce9895c0\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/69c5d070abb76676e5b62284ce9895c0\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/69c5d070abb76676e5b62284ce9895c0\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":48461,"title":"Le
+        moment Meurice","description":"Micro en main, il escarmouche, il coupe, il
+        feinte... et \u00e0 la fin de l''envoi, il touche ! Rendez-vous sur l''application
+        Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.","available":true,"fans":53179,"link":"https:\/\/www.deezer.com\/show\/48461","share":"https:\/\/www.deezer.com\/show\/48461?utm_source=deezer&utm_content=show-48461&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/cadf9781b8dc86bb34824e9597f6bb76\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/cadf9781b8dc86bb34824e9597f6bb76\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/cadf9781b8dc86bb34824e9597f6bb76\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/cadf9781b8dc86bb34824e9597f6bb76\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/cadf9781b8dc86bb34824e9597f6bb76\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":53704,"title":"L''After
+        Foot","description":"L''\u00e9mission qui dit tout haut ce que le monde du
+        foot pense tout bas ! Fort de ses 15 ans, l'' \u00ab After Foot \u00bb grandit
+        cette ann\u00e9e avec 4 heures de direct de 20h \u00e0 00h. L''\u00e9mission
+        r\u00e9f\u00e9rence des fans de football bouleverse les soir\u00e9es foot
+        des passionn\u00e9s avec un show d''avant match, de live match et d''apr\u00e8s
+        match. Le tout au rythme des r\u00e9actions \u00e0 chaud des joueurs et entra\u00eeneurs
+        et bien s\u00fbr des d\u00e9bats anim\u00e9s entre supporters et experts de
+        l''\u00ab After \u00bb.","available":true,"fans":15862,"link":"https:\/\/www.deezer.com\/show\/53704","share":"https:\/\/www.deezer.com\/show\/53704?utm_source=deezer&utm_content=show-53704&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/fb711a5f37643596dc05a4329c65a58c\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/fb711a5f37643596dc05a4329c65a58c\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/fb711a5f37643596dc05a4329c65a58c\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/fb711a5f37643596dc05a4329c65a58c\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/fb711a5f37643596dc05a4329c65a58c\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":48593,"title":"Affaires
+        sensibles","description":"Les grandes affaires, les aventures et les proc\u00e8s
+        qui ont marqu\u00e9 les cinquante derni\u00e8res ann\u00e9es.","available":true,"fans":42848,"link":"https:\/\/www.deezer.com\/show\/48593","share":"https:\/\/www.deezer.com\/show\/48593?utm_source=deezer&utm_content=show-48593&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/025aeefbb428c1a137e4573744efde6b\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/025aeefbb428c1a137e4573744efde6b\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/025aeefbb428c1a137e4573744efde6b\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/025aeefbb428c1a137e4573744efde6b\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/025aeefbb428c1a137e4573744efde6b\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":58019,"title":"L''heure
+        du crime","description":"Du lundi au vendredi de 14h30 \u00e0 15h30, Jean-Alphonse
+        Richard nous plonge dans les arcanes de la police et de la justice. Entour\u00e9
+        de sp\u00e9cialistes, archives sonores, protagonistes et grands t\u00e9moins
+        \u00e0 l\u2019appui, il rouvre les enqu\u00eates des plus grandes affaires
+        judiciaires.","available":true,"fans":9568,"link":"https:\/\/www.deezer.com\/show\/58019","share":"https:\/\/www.deezer.com\/show\/58019?utm_source=deezer&utm_content=show-58019&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/ee847f5c762384af06890fe9035daf6e\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/ee847f5c762384af06890fe9035daf6e\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/ee847f5c762384af06890fe9035daf6e\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/ee847f5c762384af06890fe9035daf6e\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/ee847f5c762384af06890fe9035daf6e\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":48193,"title":"L''humour
+        d''Inter","description":"Le rire est le propre de France Inter Rendez-vous
+        sur l''application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.","available":true,"fans":12619,"link":"https:\/\/www.deezer.com\/show\/48193","share":"https:\/\/www.deezer.com\/show\/48193?utm_source=deezer&utm_content=show-48193&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/89f4df95121314616521afee19a6650c\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/89f4df95121314616521afee19a6650c\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/89f4df95121314616521afee19a6650c\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/89f4df95121314616521afee19a6650c\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/89f4df95121314616521afee19a6650c\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":1132872,"title":"CHRONIQUES
+        CRIMINELLES","description":"Disparitions inqui\u00e9tantes, crimes passionnels,
+        \u00a0ou machinations diaboliques\u2026 D\u00e9couvrez les secrets des faits-divers
+        les plus marquants. Tueurs en s\u00e9rie, amants d\u00e9moniaques, tous pensaient
+        avoir commis le crime parfait. Mais tous, sont aujourd\u2019hui derri\u00e8re
+        les barreaux. Qui sont ces meurtriers ? Et comment les policiers sont-ils
+        parvenus \u00e0 les confondre ? La d\u00e9couverte de la v\u00e9rit\u00e9
+        ne tient parfois qu\u2019\u00e0 un fil\u2026 Gr\u00e2ce aux t\u00e9moignages
+        de tous les protagonistes, des enqu\u00eateurs aux\u00a0familles des victimes,
+        Jacques Pradel vous fait revivre ces enqu\u00eates incroyables, riches en
+        rebondissements\u2026 et en \u00e9motions\u2026 Retrouvez le Podcast Chroniques
+        Criminelles, et plongez au c\u0153ur des \u00a0affaires les plus \u00e9tonnantes
+        de l\u2019histoire judiciaire. Un podcast du Groupe TF1. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0","available":true,"fans":7885,"link":"https:\/\/www.deezer.com\/show\/1132872","share":"https:\/\/www.deezer.com\/show\/1132872?utm_source=deezer&utm_content=show-1132872&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/6cc228c3d95fc00036092846333e668c\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/6cc228c3d95fc00036092846333e668c\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/6cc228c3d95fc00036092846333e668c\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/6cc228c3d95fc00036092846333e668c\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/6cc228c3d95fc00036092846333e668c\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":58855,"title":"Franck
+        Ferrand raconte...","description":"Franck Ferrand raconte l\u2019Histoire
+        avec un enthousiasme et un talent pl\u00e9biscit\u00e9s par les auditeurs
+        de Radio Classique. Son \u00e9mission podcastable est t\u00e9l\u00e9charg\u00e9e
+        et \u00e9cout\u00e9e par plus d\u2019un million d\u2019auditeurs chaque mois.","available":true,"fans":23256,"link":"https:\/\/www.deezer.com\/show\/58855","share":"https:\/\/www.deezer.com\/show\/58855?utm_source=deezer&utm_content=show-58855&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/47fca8f1612690f270a6c28f40409e8e\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/47fca8f1612690f270a6c28f40409e8e\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/47fca8f1612690f270a6c28f40409e8e\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/47fca8f1612690f270a6c28f40409e8e\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/47fca8f1612690f270a6c28f40409e8e\/1000x1000-000000-80-0-0.jpg","type":"podcast"},{"id":58027,"title":"Laurent
+        Gerra","description":"Laurent Gerra pastiche avec malice les d\u00e9clarations
+        chocs et les tics des c\u00e9l\u00e9brit\u00e9s. Avec sa complice, Mademoiselle
+        Jade, les s\u00e9ances de travail ne sont jamais tristes.","available":true,"fans":8209,"link":"https:\/\/www.deezer.com\/show\/58027","share":"https:\/\/www.deezer.com\/show\/58027?utm_source=deezer&utm_content=show-58027&utm_term=0_1643316582&utm_medium=web","picture":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/95f5e864833afcaae09dc1f5b3e655c1\/180x180-000000-80-0-0.jpg","picture_small":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/95f5e864833afcaae09dc1f5b3e655c1\/56x56-000000-80-0-0.jpg","picture_medium":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/95f5e864833afcaae09dc1f5b3e655c1\/250x250-000000-80-0-0.jpg","picture_big":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/95f5e864833afcaae09dc1f5b3e655c1\/500x500-000000-80-0-0.jpg","picture_xl":"https:\/\/e-cdns-images.dzcdn.net\/images\/talk\/95f5e864833afcaae09dc1f5b3e655c1\/1000x1000-000000-80-0-0.jpg","type":"podcast"}],"total":10}'
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Headers:
+      - X-Requested-With, Content-Type, Authorization, Origin, Accept, Accept-Encoding
+      Access-Control-Allow-Methods:
+      - POST, GET, OPTIONS, DELETE, PUT
+      Access-Control-Expose-Headers:
+      - Location
+      Access-Control-Max-Age:
+      - '86400'
+      Content-Type:
+      - application/json; charset=utf-8
+      Server:
+      - Apache
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding,Origin
+      X-Content-Type-Options:
+      - nosniff
+      X-Host:
+      - blm-web-103
+    status:
+      code: 200
+      message: OK
+version: 1

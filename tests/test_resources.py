@@ -215,6 +215,13 @@ class TestChart:
         assert isinstance(playlist, deezer.resources.Playlist)
         assert repr(playlist) == "<Playlist: Brand New UK>"
 
+    def test_get_podcasts(self, chart):
+        podcasts = chart.get_podcasts()
+        assert isinstance(podcasts, deezer.pagination.PaginatedList)
+        podcast = podcasts[0]
+        assert isinstance(podcast, deezer.resources.Podcast)
+        assert repr(podcast) == "<Podcast: Les Grosses Têtes>"
+
 
 class TestUser:
     @pytest.fixture
